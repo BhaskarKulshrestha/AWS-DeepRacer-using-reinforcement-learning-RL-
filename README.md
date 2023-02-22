@@ -38,3 +38,6 @@ The reward function encourages the vehicle to make moves along the track quickly
 <i>You have successfully crafted a reward function and are now ready to train the model.</i>
 
 ### Now click on train model .
+
+## A gilmpse of End Result
+![](https://raw.githubusercontent.com/BhaskarKulshrestha/AWS-DeepRacer-using-reinforcement-learning-RL-/main/images/Screenshot%202023-02-23%20010438.png?token=GHSAT0AAAAAAB452XSTWAZWHMWHUULZZWMEY7WPTSA)
